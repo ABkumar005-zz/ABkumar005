@@ -7,7 +7,7 @@ Using special search string for Web Server Detection.
 Using special search string to find vulnerable websites.
 
 sudo git clone https://github.com/ABkumar005/ABkumar005/  
-cd dorklist
+cat dorklist
 
 - 👋 Hi, I’m @ABkumar005
 - 👀 I’m interested in ...
