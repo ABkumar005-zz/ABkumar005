@@ -6,6 +6,9 @@ Using special search string for Web Server Detection.
 
 Using special search string to find vulnerable websites.
 
+sudo git clone   
+cd dorklist
+
 - 👋 Hi, I’m @ABkumar005
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
